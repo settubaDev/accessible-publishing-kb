@@ -1,6 +1,22 @@
+# Goal of the Fork
+
+Turn DAISY knowledge bases into gemini protocol complaint gemtex
+
+# Knowledge Base (kb)
+
+## |Accessible Publishing|
+
+> Note: This is a Best Effort Attempt
+
+WIP 
+
+--- 
 
 ## DAISY Knowledge Bases
 
-This repository contains the source for the following DAISY knowledge bases:
+A Fork that contains the mere html plain-text files for the following DAISY knowledge bases:
 
-- [Accessible Publishing](http://kb.daisy.org/publishing)
+- [Accessible Publishing](/publishing) from kb dot daisy dot org slash publishing
+
+
+
