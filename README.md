@@ -1,6 +1,6 @@
 # Goal of the Fork
 
-Turn DAISY knowledge bases into [gemini protocol(0.24.1)](/protocol-specification-0.24.1.gmi) compliant [gemtex (0.24.1)](/gemtex-specification-0.24.1.gmi) files.
+Turn DAISY knowledge bases into [gemini protocol(0.24.1)](/protocol-specification-0.24.1.gmi) compliant [gemtext (0.24.1)](/gemtext-specification-0.24.1.gmi) files.
 
 > *Note*: Additional Requirements we aspire to follow for the HTML conversion to Gemini. When we mention Servers/ Clients we mean those subject to the latest Gemini protocol and accompanied compositional Specifications
 
